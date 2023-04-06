@@ -1,0 +1,11 @@
+{
+    "name": "flashlight_weapon",
+    "version": "0.0.1",
+    "title": "Flashlight Weapon",
+    "author": "Leoncio",
+    "contact":"",
+    "homepage":"", 
+    "description": "You will be able to keep enemies away and hurt them with the light from a new craftable Flashlight.",
+    "dependencies": ["base >= 1.1", "? Clockwork", "? New Weapons", "? Tracer Ammunition"],
+    "factorio_version": "1.1"
+  }

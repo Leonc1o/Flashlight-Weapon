@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 06. 04. 2023
+  Minor Addition:
+    - Added setting to have the normal flashlight turned off during gameplay
+  Compatibility:
+    - [Gear Girl Character] You can turn off the Gearl Girl flashlight
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 01. 04. 2023
+  Major Features:
+    - Initial release
